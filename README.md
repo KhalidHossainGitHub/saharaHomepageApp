@@ -32,7 +32,7 @@ The Sahara Homepage Application is designed to provide a clean, partially respon
    - Right-click the ZIP file and choose **Extract All** to unzip the folder.
 
 3. **Open the project**:
-   - Navigate to the unzipped folder
+   - Navigate to the unzipped folder.
    - Inside the folder, you'll find the `index.html,` `style.css,` and `images` folder.
 
 4. **Run the project**:
